@@ -1,0 +1,14 @@
+
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(şšÂ÷úÿÿÿÿ8®ŒØµ.
+i
+java:S2095!"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8®ŒØµ.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(À¿Şõ8®ŒØµ.
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(Íöœ¨8ŞíÀ“µ.
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(„öŞœ8ŞíÀ“µ.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(üİ°ç8®ŒØµ.
+q
+java:S2095)"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¨ë·øşÿÿÿÿ8¹üÁ“µ.
+j
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ì»¶“üÿÿÿÿ8®ŒØµ.
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8®ŒØµ.
